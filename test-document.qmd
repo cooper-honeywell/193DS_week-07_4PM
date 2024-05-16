@@ -10,5 +10,5 @@ editor: visual
 Here's some code!
 
 ```{r}
-library(tidyverse)
+library(tidyverse) #this is reading in tidyverse package
 ```
